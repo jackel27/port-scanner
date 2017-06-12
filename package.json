@@ -1,6 +1,6 @@
 {
   "name": "port-scanner",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "JackeL <it.davidkaiser@gmail.com>",
   "description": "A Port Scanner made with Electron-Vue",
   "license": null,
